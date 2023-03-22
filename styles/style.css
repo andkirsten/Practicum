@@ -42,7 +42,6 @@
   color: #000000;
   text-decoration: none;
   font-weight: bold;
-  justify-content: space-evenly;
 }
 
 .nav__link:hover {
@@ -63,6 +62,7 @@
   line-height: 30px;
   max-width: 532px;
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 .header__image {
